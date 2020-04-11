@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="img">
+    <file>icons/s1.png</file>
+    <file>icons/r3.png</file>
+    <file>icons/i1.png</file>
+    <file>icons/g2.png</file>
+    <file>icons/dexter.jpg</file>
+    <file>icons/d1.png</file>
+    <file>icons/add1.jpg</file>
+  </qresource>
+</RCC>

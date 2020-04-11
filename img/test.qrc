@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>174855.svg</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>tick.png</file>
+    <file>return.png</file>
+    <file>cross.png</file>
+  </qresource>
+</RCC>

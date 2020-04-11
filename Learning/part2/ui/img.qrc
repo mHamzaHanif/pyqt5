@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>images/tick.png</file>
+    <file>images/return.png</file>
+    <file>images/cross.png</file>
+  </qresource>
+</RCC>
